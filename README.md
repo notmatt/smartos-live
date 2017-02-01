@@ -191,3 +191,4 @@ discuss the issue with other developers on one of the following:
 
    which contains a list of all files/links in the image + md5sums of files and
    is also available in the live image itself in /var/log/manifest
+THIS IS A CHANGE.
